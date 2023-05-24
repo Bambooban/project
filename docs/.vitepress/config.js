@@ -1,6 +1,6 @@
 module.exports = {
     title: '棒棒',
-    base: 'project',
+    base: '/project/',
     description: 'Just playing around.',
     themeConfig: {
         // nav: [

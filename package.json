@@ -2,7 +2,7 @@
   "name": "project",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Bambooban/project.git",
+  // "repository": "https://github.com/Bambooban/project.git",
   "author": "Bambooban <banhh996@sina.com>",
   "license": "MIT",
   "scripts": {
